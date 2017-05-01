@@ -7,11 +7,11 @@ function TasksPanel(props) {
                 </div>
                 <div className="panel-body">
                     <div className="list-group">
-                        {
-                            props.tasks.map(function (t,i) {
-                            return <TaskItem key={i} task={t} />
-                            })
-                        }
+                      {
+                        props.tasks.map(function (t,i) {
+                          return <TaskItem key={i} task={t} />;
+                        })
+                      }
                         
                     </div>
                     <div className="text-right">
