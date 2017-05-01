@@ -30,13 +30,14 @@
 * Export the container
 
 ### Containers
+* Tickets (use as example)
 * TransactionPanel 
 * TopNav
 * TasksPanel
 * Comments
 * Orders
 * Tasks
-* Tickets
+
 
 ### Fix App
 * In App.js remove all instances of passing props 
