@@ -39,7 +39,7 @@
 * Tasks
 
 
-### Fix App
+### Fix
+* In App.js remove the props parameter and all instances of passing props 
 * In index.js remove all instances of state and passing props to App
-* In App.js remove all instances of passing props 
 
