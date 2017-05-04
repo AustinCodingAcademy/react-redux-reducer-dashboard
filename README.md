@@ -14,7 +14,7 @@
 * Create the store and export it
 
 ### Provide store to components
-* In index.js remove the import of state and all use of props
+* In index.js
 * Import Provider from react-redux
 * Import store from store.js
 * Use Provider component to wrap App
@@ -40,5 +40,6 @@
 
 
 ### Fix App
+* In index.js remove all instances of state and passing props to App
 * In App.js remove all instances of passing props 
 
