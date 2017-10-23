@@ -1,3 +1,6 @@
+A dashboard is a common type of user interface to show a variety of information that is important to making decisions. It is usually read only which is perfect for practicing redux reducers. The data is currently being passed to components through props. Change the code to implement redux and remove any passing of props.
+
+
 ### Reducers
 * Create a new folder called reducers
 * Create a file in this folder called index.js
