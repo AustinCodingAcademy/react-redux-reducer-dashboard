@@ -18,7 +18,7 @@ A dashboard is a common type of user interface used to show a variety of informa
   
 
 
-### Create Database
+### Create the store
 * Create a store.js file
 * Import createStore from redux
 * Import state from state.js
@@ -50,7 +50,7 @@ A dashboard is a common type of user interface used to show a variety of informa
 * Orders
 * Tasks
 
-### Think - Why do the other components not care about the database such that we don't need to make them Containers??
+### Think - Why do the other components not care about the store such that we don't need to make them Containers??
 
 ### Fix
 * In App.js remove the props parameter and all instances of passing props 
