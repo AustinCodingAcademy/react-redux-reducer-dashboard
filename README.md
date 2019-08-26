@@ -5,6 +5,9 @@ If done correctly, the web page should look the same, but no props are passed fr
 ### Setup
 fork, clone, npm install, npm start
 
+### src
+* Put all code files in the src folder
+
 ### Reducers
 * Create a new folder called reducers
 * Create a file in this folder called index.js
